@@ -27,6 +27,8 @@
 	<string>1.0.1 copyright 2010-2012, Tetsuro KURITA</string>
 	<key>CFBundleIconFile</key>
 	<string>droplet</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.ScriptEditor.id.2DF3422C-557B-4EC4-8611-42C7112BE998</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -47,18 +49,22 @@
 	<string>copyright 2010-2012, Tetsuro KURITA</string>
 	<key>WindowState</key>
 	<dict>
+		<key>bundleDividerCollapsed</key>
+		<true/>
+		<key>bundlePositionOfDivider</key>
+		<real>0.0</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
-		<integer>-1</integer>
+		<integer>2</integer>
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
 		<real>446</real>
 		<key>savedFrame</key>
-		<string>145 223 922 648 0 0 1440 878 </string>
-		<key>selectedTabView</key>
-		<string>event log</string>
+		<string>145 222 922 648 0 0 1440 877 </string>
+		<key>selectedTab</key>
+		<string>log</string>
 	</dict>
 </dict>
 </plist>
