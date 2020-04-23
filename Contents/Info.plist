@@ -63,7 +63,7 @@
 	<key>NSHomeKitUsageDescription</key>
 	<string>This script needs access to your HomeKit Home to run.</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright 2010-2012, Tetsuro KURITA</string>
+	<string>Copyright 2010-2020, Kurita Tetsuro</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>This script needs access to your microphone to run.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
